@@ -1,5 +1,5 @@
 import React from 'react';
-import location from './location';
+import Location from './location';
 import WheatherData from './WheatherData';
 const WeatherLocation = () => (
     <div>
