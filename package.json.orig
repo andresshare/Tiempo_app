@@ -1,0 +1,33 @@
+{
+<<<<<<< HEAD
+  "name": "weather_app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5"
+=======
+  "name": "wheather_app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "convert-units": "^2.3.4",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4",
+    "react-weathericons": "^1.0.4"
+>>>>>>> 64226e961b2797a341d2705cc063c9f25ac3826a
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 64226e961b2797a341d2705cc063c9f25ac3826a
